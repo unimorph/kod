@@ -27,7 +27,7 @@ Yustinus Ghanggo Ate, Garrett Nicolai
 TBA
 
 ## Shared Tasks
-[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)
+2021: [SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)
 
 
 ```
